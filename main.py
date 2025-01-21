@@ -2,7 +2,6 @@ import discord
 import yt_dlp
 from settingman import SettingMan
 import validators
-import requests
 import dotenv
 import os
 
